@@ -2,6 +2,8 @@
 
 A compact minimap button organizer for WoW 1.12 / Octo that collects addon icons into one movable, labeled menu.
 
+<img width="576" height="782" alt="image" src="https://github.com/user-attachments/assets/a62a884b-211d-45c5-91e5-d3d86f5c745a" />
+
 ## Features
 
 - Collects supported minimap addon buttons behind one hamburger-menu icon
